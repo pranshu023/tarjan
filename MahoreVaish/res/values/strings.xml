@@ -8,5 +8,6 @@
     <string name="title_activity_register">RegisterActivity</string>
     <string name="username">User Name</string>
     <string name="password">Password</string>
+    <string name="login">Login</string>
 
 </resources>
